@@ -5,7 +5,6 @@
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Image Processing, Machine Learning & Computer Vision
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with find an end of year internship at a company
 - 💬 Ask me about my projects and my skills that might be helpful to you for your projects. 
 - 📫 How to reach me: shubhamkumar.patel@epita.fr
