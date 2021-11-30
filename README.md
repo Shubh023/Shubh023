@@ -2,8 +2,8 @@
 
 
 - 🌱 I’m currently learning Image Processing, Machine Learning & Computer Vision
-- 🤔 I’m looking for help with find an end of year internship at a company
-- 💬 Ask me about my projects and my skills that might be helpful to you for your projects. 
+- 🤔 I’m looking for help with finding an end of year internship at a company.
+- 💬 Ask me about my projects and my skills that might be helpful to you or in your projects. 
 - 📫 How to reach me: shubhamkumar.patel@epita.fr
 
 <h3 align="center">A passionate Computer Science Engineer and developer from Paris</h3>
