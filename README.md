@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-**Shubh023/Shubh023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Image Processing, Machine Learning & Computer Vision
 - 🤔 I’m looking for help with find an end of year internship at a company
